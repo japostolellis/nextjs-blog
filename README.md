@@ -5,3 +5,5 @@ ACTUALLY, REVERT WITH:
 git config --global core.editor "vi"
 
 git add ./pages/api/hello.js
+
+git diff --cached
